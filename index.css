@@ -1,0 +1,19 @@
+body{
+background-color: #A8A0F9;
+
+}
+#test {
+	width: 170px;
+	height: 60px;
+	border-radius: 5px;
+	border: 0 0 5px;
+	background-color: #1601FC;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin: 10px auto;
+	transition: 1s;
+}
+.brother {
+	opacity: 0;
+}
